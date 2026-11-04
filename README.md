@@ -5,6 +5,9 @@ Repositório oficial do Trabalho de Conclusão de Curso apresentado ao curso de 
 
 Este repositório foi estruturado sob os princípios de **pesquisa reprodutível** e ciência aberta, permitindo a rastreabilidade completa entre o texto final, as fontes bibliográficas utilizadas e as notas de análise documental.
 
+* **Autores**: Carla Vazzoler Loureiro e Rafael de Almeida Pereira
+* **Orientador**: Edgard da Cunha Pontes
+
 ---
 
 ## 📂 Estrutura do Repositório
@@ -12,6 +15,6 @@ Este repositório foi estruturado sob os princípios de **pesquisa reprodutível
 ```text
 .
 ├── README.md               # Este documento de apresentação do repositório
-├── docs/                   # Texto principal do TCC (artigo)
+├── docs/                   # Texto principal do TCC (monografia)
 ├── references/             # Acervo documental e referências bibliográficas (PDFs e links)
 └── notes/                  # Fichamentos, resumos e sínteses cruzadas (gerados com apoio do NotebookLM)
