@@ -16,5 +16,5 @@ Este repositório foi estruturado sob os princípios de **pesquisa reprodutível
 .
 ├── README.md               # Este documento de apresentação do repositório
 ├── docs/                   # Texto principal do TCC (monografia)
-├── references/             # Acervo documental e referências bibliográficas (PDFs e links)
+├── references/             # Acervo documental e referências bibliográficas 
 └── notes/                  # Fichamentos, resumos e sínteses cruzadas (gerados com apoio do NotebookLM)
