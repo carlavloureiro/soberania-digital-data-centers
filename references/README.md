@@ -8,7 +8,7 @@ Em alinhamento com as diretrizes de **pesquisa reprodutível** e ciência aberta
 
 ## Estrutura de Organização
 
-Os arquivos estão organizados seguindo o padrão de nomenclatura `[sobrenome-autor]-[ano]-[palavra-chave].pdf` (ou listados na tabela abaixo, caso o documento seja de acesso restrito e vinculado por DOI/link direto).
+Os arquivos estão listados na tabela abaixo:
 
 | # | Título do Artigo / Estudo | Autores | Ano | País / Origem da Fonte | Acesso / DOI ou Arquivo |
 |---|---|---|---|---|---|
