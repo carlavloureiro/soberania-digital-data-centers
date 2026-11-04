@@ -12,9 +12,9 @@ Os arquivos estão organizados seguindo o padrão de nomenclatura `[sobrenome-au
 
 | # | Título do Artigo / Estudo | Autores | Ano | País / Origem da Fonte | Acesso / DOI ou Arquivo |
 |---|---|---|---|---|---|
-| 01 | *[Título Exemplo do Artigo 1]* | [Sobrenome et al.] | 2024 | [Ex: Quênia / Internacional] | `01-autor-2024.pdf` (ou [DOI: 10.xxxx/...](link)) |
-| 02 | *[Título Exemplo do Artigo 2]* | [Sobrenome et al.] | 2023 | [Ex: Brasil] | `02-autor-2023.pdf` (ou [DOI: 10.xxxx/...](link)) |
-| 03 | *[Título Exemplo do Artigo 3]* | [Sobrenome et al.] | 2025 | [Ex: União Europeia] | `03-autor-2025.pdf` (ou [DOI: 10.xxxx/...](link)) |
+| 01 | *Análise da vontade política do governo para alcançar a soberania de dados por meio de políticas nacionais de desenvolvimento do centro de dados* | Muhammad Prakoso Aji e Putrawan Yuliandri | 2025 | Indonésia | DOI: 10.33019/society.v13i3.932 |
+| 02 | *O setor de data centers no Brasil: um retrato da falta de soberania tecnológica do país* | Rodrigo Moreno Marques e Vinícius Sousa de Oliveira | 2025 | Brasil |  [link](https://revista.ibict.br/liinc/article/view/7539) |
+| 03 | *Quão soberano é o Sovereign Compute? Uma análise de 775 data centers fora dos EUA* | Aris Richardson, Haley Yi, Michelle Nie, Simon Wisdom, Casey Price, Ruben Weijers, Steven Veld e Mauricio Baker | 2026 | Estados Unidos | [link](https://arxiv.org/abs/2508.00932) |
 
 ---
 
