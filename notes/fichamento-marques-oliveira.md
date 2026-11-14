@@ -1,7 +1,5 @@
 # Fichamento: O Setor de Data Centers no Brasil: Um Retrato da Falta de Soberania Tecnológica do País (Marques &amp; Oliveira, 2025)
 
-**Gerado em:** 06/08/2026.
-
 * **Referência Completa:** MARQUES, Rodrigo Moreno; OLIVEIRA, Vinícius Sousa de. O setor de data centers no Brasil: um retrato da falta de soberania tecnológica do país. **Liinc em Revista**, Rio de Janeiro, v. 21, n. 1, e7539, p. 1–20, jun. 2025[1].
 * **Objetivo do Artigo:** Caracterizar o setor de *data centers* em operação no Brasil, mapeando a distribuição das unidades, a origem do capital das empresas controladoras e o grau de dependência tecnológica externa para discutir os impactos sobre a soberania de dados, soberania digital e soberania tecnológica nacional[3][4].
 * **Principais Conceitos:**
