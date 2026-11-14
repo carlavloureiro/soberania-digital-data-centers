@@ -1,7 +1,5 @@
 # Fichamento: Análise da Vontade Política do Governo para Alcançar a Soberania de Dados por meio de Políticas Nacionais de Desenvolvimento do Centro de Dados (Aji &amp; Yuliandri, 2025)
 
-**Gerado em:** 07/08/2026.
-
 * **Referência Completa:** AJI, Muhammad Prakoso; YULIANDRI, Putrawan. Análise da vontade política do governo para alcançar a soberania de dados por meio de políticas nacionais de desenvolvimento do centro de dados. **Sociedade** (*Society*), v. 13, n. 3, p. 1194–1205, 2025\. DOI: 10.33019/society.v13i3.932[1].
 * **Objetivo do Artigo:** Analisar em que medida a **vontade política** do governo indonésio impulsiona a concretização da soberania de dados nacional por meio da implementação e do desenvolvimento do **Centro Nacional de Dados** (*Pusat Data Nasional* — PDN)[2].
 * **Principais Conceitos:**
